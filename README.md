@@ -83,8 +83,8 @@ NN_ALGORITHM/
 ## Quick Start
 
 ```bash
-git clone https://github.com/muhammedehab35/ML_algorithms_from_scratch.git
-cd ML_algorithms_from_scratch
+git clone git@github.com:muhammedehab35/MACHINE_LEARNING_Algorithms_From_Scratch.git
+cd MACHINE_LEARNING_Algorithms_From_Scratch
 pip install numpy scipy matplotlib scikit-learn
 ```
 
