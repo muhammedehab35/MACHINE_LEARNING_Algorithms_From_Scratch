@@ -1,0 +1,26 @@
+# ML Algorithms from Scratch - Requirements
+# Core dependencies for all modules
+
+# Core library for numerical computations
+numpy>=1.22.0
+
+# For visualization examples
+matplotlib>=3.4.2
+
+# For comparison and validation (used in tests/examples)
+scikit-learn>=0.24.2
+
+# For data manipulation (used in some examples)
+pandas>=1.2.4
+
+# For advanced statistical functions (used in GP metrics)
+scipy>=1.7.0
+
+# Additional dependencies for specific modules
+# All modules (01_LINEAR_REGRESSION, 02_POLYNOMIAL_REGRESSION, etc.)
+# are implemented from scratch using only NumPy as core dependency.
+# Other libraries are optional and only used for:
+# - Examples and visualizations (matplotlib)
+# - Testing and validation (scikit-learn)
+# - Data loading/preprocessing examples (pandas)
+# - Advanced statistical computations (scipy - only for GP CRPS metric)
